@@ -1,1 +1,1 @@
-# Expense-Analyzer
+# Budget buddy
